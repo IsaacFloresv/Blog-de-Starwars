@@ -17,10 +17,7 @@ export const Singleplanet = () => {
 						<h5>{store.planetsList[params.theid].name}</h5>
 						<p>
 							Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin
-							commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce
-							condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. Cras
-							purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac
-							nisi vulputate fringilla.
+							commodo. Cras purus odio, vestibulum in vulputate at.
 						</p>
 					</Card.Body>
 				</Card>

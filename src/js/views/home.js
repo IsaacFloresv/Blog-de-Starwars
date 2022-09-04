@@ -9,7 +9,7 @@ export const Home = () => (
 			<img src={starwars_logo} />
 		</p>
 		<Link to="/blog" className="btn btn-success mt-5">
-			THE BLOG
+			The Start Wars Blog
 		</Link>
 	</div>
 );
